@@ -1,0 +1,74 @@
+.header {
+  padding: 2em;
+  color: #fff;
+  position: relative;
+  box-shadow: 0px 4px 16px 0px rgb(33 33 33 / 70%);
+}
+
+.img-background {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  opacity: 0.6;
+}
+.header h1 {
+  font-size: 2.4em;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.temp {
+  font-size: 18em;
+  font-weight: 300;
+  letter-spacing: -15px;
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1;
+  margin-top: 2rem;
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.degree {
+  font-size: 6rem;
+  vertical-align: top;
+}
+
+.summary {
+  font-size: 2em;
+  font-weight: 200;
+  text-align: center;
+}
+
+.bg-sunny {
+  background: rgb(232, 217, 85);
+  background: linear-gradient(
+    0deg,
+    rgba(232, 217, 85, 1) 0%,
+    rgba(255, 0, 0, 1) 100%
+  );
+}
+
+.bg-mild {
+  background: rgb(232, 217, 85);
+  background: linear-gradient(
+    0deg,
+    rgb(246, 244, 233) 0%,
+    rgb(122, 174, 207) 100%
+  );
+}
+
+.bg-cloudy {
+  background: rgb(241, 241, 241);
+  background: linear-gradient(
+    0deg,
+    rgba(241, 241, 241, 1) 0%,
+    rgba(110, 110, 110, 1) 100%
+  );
+}
