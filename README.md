@@ -4,12 +4,12 @@ This app shows the current weather in a pleasing single page UI.
 
 ## Libraries / API's
 
-- This app was made using Next.js and Typescript. 
-- It utilises Axios to make requests to the Accuweather api.
+- This app was made using **Next.js** and **Typescript**. 
+- It utilises **Axios** to make requests to the **Accuweather api**.
 
 ## Features
 
-- Uses getStaticProps() to fetch the API data and build a static site
+- Uses **getStaticProps()** to fetch the API data and build a static site
 
 ## Todo
 
