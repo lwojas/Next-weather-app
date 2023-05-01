@@ -13,7 +13,7 @@ This app shows the current weather in a pleasing single page UI.
 
 ## Todo
 
-- [ ] Add location search and storage
+- [-] Add location search and storage
 - [ ] Add dynamic clouds to background graphics
 - [ ] Add more weather info
 - [ ] Add more background colours for each weather type
